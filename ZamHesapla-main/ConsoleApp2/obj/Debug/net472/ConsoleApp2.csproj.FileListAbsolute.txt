@@ -1,0 +1,9 @@
+C:\Users\serda\Desktop\ZamHesapla-main\ZamHesapla-main\ConsoleApp2\bin\Debug\net472\ConsoleApp2.exe.config
+C:\Users\serda\Desktop\ZamHesapla-main\ZamHesapla-main\ConsoleApp2\bin\Debug\net472\ConsoleApp2.exe
+C:\Users\serda\Desktop\ZamHesapla-main\ZamHesapla-main\ConsoleApp2\bin\Debug\net472\ConsoleApp2.pdb
+C:\Users\serda\Desktop\ZamHesapla-main\ZamHesapla-main\ConsoleApp2\obj\Debug\net472\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\serda\Desktop\ZamHesapla-main\ZamHesapla-main\ConsoleApp2\obj\Debug\net472\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\serda\Desktop\ZamHesapla-main\ZamHesapla-main\ConsoleApp2\obj\Debug\net472\ConsoleApp2.AssemblyInfo.cs
+C:\Users\serda\Desktop\ZamHesapla-main\ZamHesapla-main\ConsoleApp2\obj\Debug\net472\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\serda\Desktop\ZamHesapla-main\ZamHesapla-main\ConsoleApp2\obj\Debug\net472\ConsoleApp2.exe
+C:\Users\serda\Desktop\ZamHesapla-main\ZamHesapla-main\ConsoleApp2\obj\Debug\net472\ConsoleApp2.pdb

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "TaM0KuUCqXEDwehSf2+s99hjRNiu36rHmwMtN8vBo/QJFITelVdk+9Fsd7HPj44U4EyR/ANkD6o6R36Nd07Ejw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serda\\Desktop\\ZamHesapla-main\\ZamHesapla-main\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serda\\.nuget\\packages\\carbon.data.protection\\1.4.0\\carbon.data.protection.1.4.0.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\carbon.packaging\\1.46.0\\carbon.packaging.1.46.0.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\carbon.storage\\2.7.0\\carbon.storage.2.7.0.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\carbon.versioncontrol\\2.4.0\\carbon.versioncontrol.2.4.0.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\carbon.versioning\\1.9.0\\carbon.versioning.1.9.0.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\github\\1.31.0\\github.1.31.0.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
